@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Pcsx2Upscaler</AssemblyName>
+    <RootNamespace>Pcsx2Upscaler</RootNamespace>
+  </PropertyGroup>
+
+</Project>

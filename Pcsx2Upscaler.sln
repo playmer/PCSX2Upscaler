@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pcsx2Upscaler", "Pcsx2Upscaler\Pcsx2Upscaler.csproj", "{7CE2A8C6-0C2B-4B2A-8F7D-1E34E2285A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE2A8C6-0C2B-4B2A-8F7D-1E34E2285A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE2A8C6-0C2B-4B2A-8F7D-1E34E2285A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE2A8C6-0C2B-4B2A-8F7D-1E34E2285A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE2A8C6-0C2B-4B2A-8F7D-1E34E2285A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68EFF9DB-F148-4BC4-9A7E-DB3EBAA2D7D9}
+	EndGlobalSection
+EndGlobal
